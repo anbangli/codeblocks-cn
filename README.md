@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
+# Code::Blocks 17.12 中文版
+Code::Blocks（或者叫做 CodeBlocks）是一款开放源代码、跨平台的集成开发环境（IDE），通过配置不同的编程语言编译器，可以用于多种编程语言程序开发。
 
-You can use the [editor on GitHub](https://github.com/anbangli/codeblocks-cn/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+我花了一些时间，把 Code::Blocks [官方网站](https://www.codeblocks.org/) 上集成了 GNU GCC 编译器的英文版本 v17.12 与中文汉化包进行了合并，并根据实际情况对配置参数进行了优化，在此提供给大家下载使用。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+请下载 [Code::Blocks 17.12 中文版](https://github.com/anbangli/codeblocks-cn/releases/download/v17.12cn/CodeBlocks-17.12-cn.exe) 。
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/anbangli/codeblocks-cn/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
