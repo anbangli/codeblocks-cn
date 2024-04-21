@@ -1,12 +1,15 @@
-# Code::Blocks 23.01 中文优化完整版
+# Code::Blocks 24.04 中文优化完整版
 Code::Blocks（或者叫做 CodeBlocks）是一款开放源代码、跨平台的集成开发环境（IDE），通过配置不同的编程语言编译器，可以用于多种编程语言程序开发。
 
-我花了一些时间，把 Code::Blocks 的中文语言包完成全部词条的翻译，把 Code::Blocks [官方网站](https://www.codeblocks.org/) 提供的2023年1月发行版（svn13166）与编译器 GCC 12.2.0 (2022年8月发布）进行集成，并根据实际情况对配置参数进行了优化，在此提供给大家下载使用。
+这里提供的是  Code::Blocks 24.04 中文优化完整版，它具有如下性质：
+1、从 Code::Blocks [官方网站](https://www.codeblocks.org/) 上提供的 2024 年 4 月发行版（svn13496）；
+2、完成了 Code::Blocks 的中文语言包全部词条的翻译，软件界面上全部是中文（不再有英文词条了）；
+3、并根据实际使用情况对 Code::Blocks 的用户界面和配置参数进行了优化；
+3、集成了编译器 MinGW64 GCC 11.4.0 (2021年发布）并翻译中文语言包的全部词条，编译信息全部是中文。
 
-[从GitHub下载 Code::Blocks 23.01 中文优化完整版](https://github.com/anbangli/codeblocks-cn/releases/download/v23.01cn/CodeBlocks-23.01-MinGW64-GCC-12.2-cn.exe) 
+[从GitHub下载 Code::Blocks 24.04 中文优化完整版](https://github.com/anbangli/codeblocks-cn/releases/download/v24.04cn/CodeBlocks-24.04-GCC-11.4-cn.exe)
 
-[从百度网盘下载 Code::Blocks 23.01 中文优化完整版](https://pan.baidu.com/s/1ORp0FmHZySt6KlHy5dpDNw?pwd=free)
-
+[从百度网盘下载 Code::Blocks 24.04 中文优化完整版](https://pan.baidu.com/s/13NwHijeO513V4ZfG6_CIzg?pwd=devc)
 
 我根据这份 Code::Blocks 给使用本软件的用户写了一份简明的入门教程，请用户在安装之后点击菜单 “帮助” 下面的“入门教程”，即可打开并阅读。
 
